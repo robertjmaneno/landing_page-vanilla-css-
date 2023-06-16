@@ -1,1 +1,1 @@
-# landing_page-vanilla-css-
+This repository contains a landing page project created using HTML and CSS. The project focuses on applying the concepts of Flexbox and the basics of CSS to build an attractive landing page.
